@@ -9,3 +9,5 @@
 ### 4. Digonal diiference of square matrix array
 
 ### 5. simple forloop
+
+### 6. fibonacci series
