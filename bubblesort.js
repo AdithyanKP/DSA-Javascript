@@ -1,3 +1,4 @@
+//Bubble sort
 function bubbleSort(arr) {
   let swapped;
   do {
