@@ -19,6 +19,6 @@ function bubbleSort(arr) {
   return arr;
 }
 
-let arry = [1, 2, 3];
+let arry = [1, 2, 4, 9, 2, 3];
 
 bubbleSort(arry);
